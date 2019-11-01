@@ -7,3 +7,4 @@ chmod +x shadowsocks-all.sh
 ^
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 ============
+wget https://www.moidea.info/download/ssr/ssr.sh && bash ssr.sh
