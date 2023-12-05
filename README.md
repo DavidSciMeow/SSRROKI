@@ -1,8 +1,12 @@
-SSRR_OneKey_Install    
+# SSRR_OneKey_Install    
+
+--------------------
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh    
+
+------------------
 wget https://d.kxxzz.com/sh/tcp2020/tcp.sh && chmod +x tcp.sh && ./tcp.sh    
 
-
+---------------
  // module 'collections' has no attribute 'MutableMapping'    
 class LRUCache(collections.MutableMapping) -> class LRUCache(collections.abc.MutableMapping):    
 
